@@ -49,4 +49,4 @@ let tickets: Ticket[] = [
   { source: 'London', destination: 'Amsterdam' },
 ];
 
-console.log('Hi', findItinerary(tickets));
+console.log(findItinerary(tickets));
